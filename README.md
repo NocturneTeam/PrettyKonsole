@@ -26,11 +26,13 @@ On MacOS :
 #include "./Path/To/PrettyKonsole.h"
 ```
 
-## 🗒️ System Powershell and CMD
+## 💻 System Powershell and CMD
 
 - `Kon`
   - `.powershell("command")` or `.ps("command")` > Execute a command into the Powershell env.
   - `.cmd("command")` > Execute a command into the CMD env.
+
+## 🗒️ Logs writer
 
 - `Kon`
   - `.write("message")` > Write a simple text into the console.
