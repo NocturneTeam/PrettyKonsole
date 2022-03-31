@@ -3,7 +3,7 @@
  * @file console.h
  * @author Paul BONCAR (contact.nocteria@gmail.com)
  * @brief COUT manager. Beautify your console!
- * @version 0.1
+ * @version 1.0.0
  * @date 2022-03-31
  *
  * @copyright Copyright (c) 2022
